@@ -1,0 +1,35 @@
+Recorded Changes for Mood Paper IEEE 2022
+
+__________Revision Notification Letter____________
+
+We thank all reviewers for their valuable comments. According to the suggestions from the meta-review, we have made the following major revisions to our paper: 
+
+- All grammar/spelling issues were handled methodically.
+
+- An additional section in related work was included discussing work in semi-automatic photo recoloring. The sources recommended by Reviewer 2 were added. A discussion of these papers was also added.
+
+- The meaning of weight value w0 in our cost function was made clear. It is a manually input weight for the mood.
+
+- An additional sentence was added in our analysis of User Study 1 explaining the meaning of the null hypothesis for that task.
+
+- A discussion as to why the method focuses on indoor scenes has been added to the future work section.
+
+- The possibility of creating an end-to-end approach that could generate color parameters for a scene is discussed in the future work section. 
+
+- Added more discussion about our approach compared to others in work related section, including gaps that our approach aims to cover.
+
+- A figure with 5 results using the same scene has been added to the supplementary document. 
+
+- Further discussion about other papers has been added to related work.
+
+- The section Image Classification has been renamed to Image Mood Classification and has been improved to discuss further details about the CNN architecture and implementation details.
+
+- Additional comments have been added to address replicability issues. 
+
+- Instead of using the word "mutually exclusive" to differentiate the main mood being optimized for, we use the word "different". 
+
+- Figure 11, showing the interface of User Study 2, has been moved to our supplementary document.
+
+- The authors order was changed.
+
+_________________END______________
